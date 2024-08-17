@@ -1,0 +1,5 @@
+name = "isomorphic-git-cors-proxy-worker"
+compatibility_date = "2024-08-17"
+
+# [vars]
+# ALLOW_ORIGINS = "*"
